@@ -4,7 +4,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Text;
 
-const int port = 5000;
+const int port = 5112;
 UdpClient udpServer = null;
 
 try
